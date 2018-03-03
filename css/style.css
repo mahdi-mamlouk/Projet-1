@@ -1,0 +1,99 @@
+body {
+    text-align: center;
+    background-image: url("C:/Users/GOMYCODE/Desktop/Projet 1/res/hp.png"); 
+  
+      background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+img {
+     height: 300px;
+    width: 50%;
+        border-radius: 8px;
+
+}
+
+img {
+    text-align: center ;
+    border-radius: 8px;
+
+
+}
+p{
+    color:red;
+}
+
+li{
+	color:red;
+}
+
+ div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}  
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+ 
+
+/* unvisited link */
+i:link {
+    color: red;
+}
+
+/* visited link */
+i:visited {
+    color: green;
+}
+
+/* mouse over link */
+i:hover {
+    color: hotpink;
+}
+
+/* selected link */
+i:active {
+    color: blue;
+}
+a {
+	  font-size: 40px;
+	  color: rgb(255, 99, 71);
+
+    text-decoration: underline;
+
+}
